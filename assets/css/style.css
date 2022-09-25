@@ -6106,6 +6106,7 @@ textarea.form-control {
 }
 
 .product__tabs .tab-content p {
+  padding-top: 20px;
   line-height: 22px;
 }
 
